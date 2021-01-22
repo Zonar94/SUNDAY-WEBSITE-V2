@@ -12,19 +12,46 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 200vh;
   display: flex;
   flex-direction: column;
   align-items: left;
   justify-content: left;
-  font-size: calc(1px + 2vmin);
-  color: rgb(246, 85, 85);
+  font-size: calc(10px + 2vmin);
+  font-style: bold;
 }
 
 .App-link {
   color: #61dafb;
 }
+.skateboards{
+  width: 654px;
+  height: 390px; 
+}
 
+a.nav-link{
+  font-size: 25px;
+  font-style: bold!important;
+  font-family: Roboto;
+  color: white!important;
+}
+
+.navbar.text{
+  color: white;
+}
+
+.carousel2{
+  width: 900px;
+  justify-content: center;
+ 
+}
+
+.jumbotron1{
+  font-size: 10px!important;
+ background-color: #0F2100;
+ color: white;
+ 
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

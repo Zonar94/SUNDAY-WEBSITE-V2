@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color:  #0F2100!important;
   
  
 }
@@ -14,36 +15,6 @@ code {
     monospace;
 }
 
-
-.g-card {
-  margin: 20px;
-}
-
-
-.g-card-image {
-  border-radius: 2px;
-  width: 508px;
-  height: 346px;
-  
-}
-
-
-.g-card-info {
-  margin-top: 1px;
-  min-height: 100px;
-}
-
-
-.g-card-title {
-  font-size: 24px;
-  margin: 0px;
-}
-
-
-.g-card-sub-title {
-  font-size: 16px;
-  margin: 0px;
-}
 
 
 .success-msg {
