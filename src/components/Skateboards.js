@@ -14,12 +14,14 @@ export default class skateboard extends React.Component {
             <Container>
                 <Row className="carousel2" id="carousel12">
                     <Col sm={8}>
-                    <img className="skateboards" src={card1} />
-                    <img className="skateboards" src={card2} />   
+                    {/*Puts the images in the the columns*/}
+                    <img className="skateboards1" src={card1} />
+                    <img className="skateboards1" src={card2} />   
                     </Col>                  
                     <Col sm={4}>
-                <img className="skateboards" src={card3} />
-                    <img className="skateboards" src={card4} />
+                         {/*Puts the images in the the columns*/}
+                <img className="skateboards2" src={card3} />
+                    <img className="skateboards2" src={card4} />
                     </Col>
                 </Row>
             </Container>

@@ -24,9 +24,16 @@
 .App-link {
   color: #61dafb;
 }
-.skateboards{
-  width: 654px;
-  height: 390px; 
+.skateboards1{
+  width: 754px;
+  height: 490px; 
+  padding-right: 40px;
+  
+}
+.skateboards2{
+  width: 754px;
+  height: 490px;
+  padding-left: 20px;
 }
 
 a.nav-link{
@@ -42,12 +49,13 @@ a.nav-link{
 
 .carousel2{
   width: 900px;
-  justify-content: center;
+  padding-right: 120px;
+  
  
 }
 
 .jumbotron1{
-  font-size: 10px!important;
+  font-size: 10%!important;
  background-color: #0F2100;
  color: white;
  
